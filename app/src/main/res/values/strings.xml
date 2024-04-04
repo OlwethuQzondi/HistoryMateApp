@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HistoryMate</string>
+    <string name="search">Search</string>
+    <string name="clear_search">Clear Search</string>
+    <string name="enter_age">Enter Age:</string>
+    <string name="become_a_part_of_history">Become A Part Of History...</string>
+    <string name="history_mate">HISTORY MATE</string>
+</resources>
