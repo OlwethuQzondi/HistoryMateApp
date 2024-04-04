@@ -15,7 +15,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var resultTextView: TextView
     private lateinit var ageInput: EditText
     private lateinit var clearButton: Button
-    @SuppressLint("MissingInflatedId")
+    @SuppressLint("MissingInflatedId", "SetTextI18n")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
