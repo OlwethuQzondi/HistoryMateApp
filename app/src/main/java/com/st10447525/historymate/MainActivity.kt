@@ -1,6 +1,6 @@
 package com.st10447525.historymate
 //ST10447525 OLWETHU Q ZONDI
-//
+//https://www.geeksforgeeks.org/kotlin-if-else-expression/?ref=gcse
 
 import android.annotation.SuppressLint
 import androidx.appcompat.app.AppCompatActivity
