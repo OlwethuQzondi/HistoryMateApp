@@ -80,17 +80,18 @@
         android:layout_marginTop="19dp"
         android:layout_marginEnd="117dp"
         android:layout_marginBottom="33dp"
+        android:autofillHints=""
         android:ems="10"
         android:fontFamily="sans-serif-condensed"
         android:inputType="number"
         android:text="@string/enter_age"
+        android:visibility="visible"
         app:layout_constraintBottom_toTopOf="@+id/clear_text_button"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/sloganView"
-        tools:ignore="LabelFor"
-        android:autofillHints="" />
+        tools:ignore="LabelFor" />
 
     <Button
         android:id="@+id/searchButton"

@@ -35,6 +35,8 @@ class MainActivity : AppCompatActivity() {
             if (age != null && age in 20..100){
                 // when age is 30 display ToBeAdded else when is .. and so on
                 val Historyfigure = when (age){
+                    28 -> "Heath Ledger(28)(1979-2008)" +
+                            "You are the age as Heath Ledger when he paased away. When hunky, 28 year old heart-throb Heath Ledger first came to the attention of the public in 1988, it was all too easy to tag him as a pretty boy and an actor of little depth."
                     33 -> "Saint Barbara(33)(0273AD-0306)" +
                             "You are the same age as Saint Barbara when she passed away. Saint Barbara was an early Christian Lebanese and Greek saint and martyr. She is also known as the Great Martyr Barbara in the Eastern Orthodox Church. Not much is known about her life and work as there is no mention of her in the authentic early Christian writings."
                     40 -> "La Malinche(40)(1442-1483)" +
